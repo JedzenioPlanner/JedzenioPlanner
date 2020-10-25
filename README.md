@@ -44,6 +44,10 @@ Projekt umożliwia łatwe i szybkie wygenerowanie dziennej diety w oparciu o lic
 
 ## Opis działania aplikacji
 
+Aplikacja dzięki bazie przepisów do której użytkownicy mogą przesyłać swoje ulubione przepisy, zdolna jest generować dzienną diętę w oparciu o maksymalną liczbę kalorii oraz liczbę posiłków.
+Dzięki niej użytkownik może łatwo i przyjemnie wygenerować codziennie inną dietę według zaleceń dietetycznych.
+Aplikacja umożliwia także odkrywanie innych interesujących przepisów dzięki ich galerii oraz zapisywanie ulubionych przepisów w aplikacji mobilnej.
+
 ## Dalszy rozwój
 
 * Dodanie większej ilości lepiej sformatowanych przepisów.
